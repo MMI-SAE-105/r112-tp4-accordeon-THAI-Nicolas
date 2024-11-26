@@ -5,6 +5,6 @@ const summary = document.querySelectorAll("summary");
 
 accordeon.querySelectorAll("summary").forEach((summary) => {
     summary.addEventListener("click", () => {
-        accordeon.querySelectorAll("details").forEach((det) => { (det.open = false) });;
+        accordeon.querySelectorAll("details").forEach((det) => { (det.open = false) });
     });
 })
