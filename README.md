@@ -1,6 +1,6 @@
-- nom :
-- prénom :
-- URL Netlify :
+- nom : THAI
+- prénom : Nicolas
+- URL Netlify : https://dapper-cupcake-6d3d4e.netlify.app/
 
 # Travail
 
