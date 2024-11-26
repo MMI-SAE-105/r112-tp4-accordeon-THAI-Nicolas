@@ -12,6 +12,10 @@ img {
     object-fit: cover;
 }
 
+details summary {
+    list-style-type: none;
+}
+
 .triangle {
     width: 0;
     height: 0;
@@ -59,7 +63,10 @@ details[open] {
         rotate: 180deg;
         transition: rotate 0.8s ease-in-out;
     }
+
 }
+
+
 
 summary {
     display: flex;
