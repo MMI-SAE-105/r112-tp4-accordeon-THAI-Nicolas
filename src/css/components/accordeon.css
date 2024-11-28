@@ -45,6 +45,7 @@ details {
     margin-bottom: 20px;
     padding: 5px 10px 5px 10px;
     transition: height 0.8s ease-in-out;
+    overflow: hidden;
 }
 
 details[open] {
